@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\bin\Debug\Hotelmanagement.exe.config
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\bin\Debug\Hotelmanagement.exe
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\bin\Debug\Hotelmanagement.pdb
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\obj\Debug\Hotelmanagement.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\obj\Debug\Hotelmanagement.Form1.resources
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\obj\Debug\Hotelmanagement.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\obj\Debug\Hotelmanagement.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\obj\Debug\Hotelmanagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\obj\Debug\Hotelmanagement.exe
+C:\Users\ASUS\source\repos\Hotelmanagement\Hotelmanagement\obj\Debug\Hotelmanagement.pdb
